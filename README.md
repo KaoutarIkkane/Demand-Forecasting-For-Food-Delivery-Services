@@ -1,6 +1,6 @@
 # 📌 Demand Forecasting for Food Delivery Services  
 
-Avec la croissance rapide des services de livraison alimentaire, il devient essentiel d’anticiper la demande des clients afin d’optimiser la gestion des stocks et l’efficacité logistique. Ce projet vise à prédire la demande des services de livraison en utilisant le dataset *Instacart Market Basket Analysis* et un modèle de réseaux de neurones récurrents LSTM (Long Short-Term Memory).  
+Avec la croissance rapide des services de livraison alimentaire, il devient essentiel d’anticiper la demande des clients afin d’optimiser la gestion des stocks et l’efficacité logistique. Ce projet vise à prédire la demande des services de livraison en utilisant le dataset [*Instacart Market Basket Analysis*](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) et un modèle de réseaux de neurones récurrents LSTM (Long Short-Term Memory).  
 
 ## 🎯 Objectifs  
 - **Prédire la demande future** : Identifier les tendances d’achat des clients.  
